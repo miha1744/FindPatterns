@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="NavigationDrawerPopUpMenu2.UserControlChart"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NavigationDrawerPopUpMenu2"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+     <Grid RenderTransformOrigin="0.5,0.517">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="24*"/>
+            <ColumnDefinition Width="179*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Name="greedChart" Margin="10,10,148,10.333" Grid.ColumnSpan="2">
+            <Rectangle Name="rectChart" Fill="#FFF4F4F5" Stroke="Black" RadiusY="10.5" RadiusX="10.5" Margin="110,10,0.333,-0.333">
+                <Rectangle.Effect>
+                    <DropShadowEffect/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <WindowsFormsHost Name="hostChart" Margin="123,19,10,9.667" ChildChanged="hostChart_ChildChanged"/>
+        </Grid>
+        <Button Name="Start" Content="draw" HorizontalAlignment="Right" Margin="0,0,10,56.333" VerticalAlignment="Bottom" Width="133" Click="Start_Click" Grid.Column="1">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="buttonRew" Content="clear" HorizontalAlignment="Right" Margin="0,0,10,99.333" VerticalAlignment="Bottom" Width="133" Click="buttonRew_Click" Grid.Column="1">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+
+    </Grid>
+
+</UserControl>

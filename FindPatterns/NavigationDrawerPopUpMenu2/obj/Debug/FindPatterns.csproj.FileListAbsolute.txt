@@ -1,0 +1,112 @@
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csprojResolveAssemblyReference.cache
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.g.cs
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.baml
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csproj.GenerateResource.Cache
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\UserControlChart.g.cs
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\UserControlChart.baml
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\UserControlStat.g.cs
+C:\Users\MI\Desktop\NavigationDrawer-master\NavigationDrawerPopUpMenu2\obj\Debug\UserControlStat.baml
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csprojResolveAssemblyReference.cache
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\UserControlChart.g.cs
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.g.cs
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\UserControlStat.g.cs
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\UserControlChart.baml
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.baml
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\UserControlStat.baml
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csproj.GenerateResource.Cache
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\MI\Desktop\курсач\ПрогаКурс\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csprojResolveAssemblyReference.cache
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlChart.g.cs
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.g.cs
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlStat.g.cs
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlChart.baml
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.baml
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlStat.baml
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csproj.GenerateResource.Cache
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\MI\Desktop\курсач\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csprojResolveAssemblyReference.cache
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.g.cs
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlChart.g.cs
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.g.cs
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlStat.g.cs
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\MainWindow.baml
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlChart.baml
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlCreate.baml
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\UserControlStat.baml
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csproj.GenerateResource.Cache
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\FindPatterns.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\MI\Desktop\Курсовая работа Иванов.М.В\FindPatterns\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
